@@ -1,9 +1,14 @@
-/*[fF]abric*/
-/*[fF]abric*
+# 目录
 logs/
 PCL/
 saves/
 skin_overrides/
+
+# 根目录的 fabric 相关
+/*[fF]abric*/
+/*[fF]abric*
+
+# 根目录的特定文件
 /command_history*
 /realms_persistence*
 /usercache*
