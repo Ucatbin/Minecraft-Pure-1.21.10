@@ -1,0 +1,8 @@
+/weather rain
+/weather clear
+/gamemode survival
+/gamemode creative
+/gamemode spectator
+/gamemode creative
+/gamemode spectator
+/gamemode creative

@@ -1,0 +1,9 @@
+/*[fF]abric*/
+/*[fF]abric*
+logs/
+PCL/
+saves/
+skin_overrides/
+/command_history*
+/realms_persistence*
+/usercache*

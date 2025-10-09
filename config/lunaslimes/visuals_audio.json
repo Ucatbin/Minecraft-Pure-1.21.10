@@ -1,0 +1,13 @@
+{
+  "growAnim": true,
+  "wobbleAnim": true,
+  "squishMultiplier": 20,
+  "jumpAntic": true,
+  "deathAnim": true,
+  "newShadows": true,
+  "particles": true,
+  "glowingMagma": true,
+  "slimeBlockParticles": true,
+  "mergeSounds": true,
+  "splitSounds": true
+}
