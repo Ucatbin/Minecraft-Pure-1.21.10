@@ -1,10 +1,10 @@
 {
 	// If enabled, tree harvesting only works when a player is holding an axe in the main hand.
-	"mustHoldAxeForTreeHarvest": true,
+	"mustHoldAxeForTreeHarvest": false,
 	// If enabled, tree harvesting works when not holding the sneak button. If disabled it's reversed, and only works when sneaking.
 	"treeHarvestWithoutSneak": true,
 	// Whether the mod should attempt to find the actual bottom log of the tree and start there. This means you can break a tree in the middle and it will still completely be felled.
-	"automaticallyFindBottomBlock": true,
+	"automaticallyFindBottomBlock": false,
 	// If enabled, the leaves around a broken tree will quickly disappear. Only works with 'instantBreakLeavesAround' disabled.
 	"enableFastLeafDecay": true,
 	// If enabled, the warped stem/crimson trees in the nether will also be chopped down quickly.
@@ -34,5 +34,5 @@
 	"increasedHarvestingTimePerLogModifier": 0.5,
 	// How many leaves should be broken per tick after a tree has been harvested. Increasing this will speed up the fast leaf decay, but costs more processing power per tick.
 	// min: 1, max: 16
-	"amountOfLeavesBrokenPerTick": 5
+	"amountOfLeavesBrokenPerTick": 2
 }

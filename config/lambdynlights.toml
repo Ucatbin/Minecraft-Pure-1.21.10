@@ -180,6 +180,10 @@ mode = "off"
 				wither = true
 				spruce_chest_boat = true
 
+			[light_sources.settings.entities.bettertridents]
+				loyal_experience_orb = true
+				loyal_item = true
+
 [debug]
 	active_dynamic_lighting_cells = false
 	display_dynamic_lighting_chunk_rebuild = false

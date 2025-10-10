@@ -11,7 +11,7 @@
       "opacity": 1.0,
       "beepSound": "enhancedvisuals:ringing",
       "dust": {
-        "disabled": false,
+        "disabled": true,
         "opacity": 1.0,
         "animationSpeed": 0,
         "scale": {
@@ -24,7 +24,7 @@
         "max": 1000
       },
       "dustAmount": {
-        "min": 0,
+        "min": 2,
         "minValue": 0,
         "max": 20,
         "maxValue": 30
@@ -38,7 +38,7 @@
       },
       "blur": {
         "disabled": false,
-        "opacity": 1.0
+        "opacity": 0.19526628
       },
       "maxBlur": {
         "min": 0,
@@ -70,7 +70,7 @@
       }
     },
     "sand": {
-      "enabled": true,
+      "enabled": false,
       "opacity": 1.0,
       "duration": {
         "min": 100,
@@ -92,7 +92,7 @@
       "opacity": 1.0,
       "duration": {
         "min": 10,
-        "max": 10
+        "max": 35
       },
       "intensity": {
         "min": 5,
@@ -104,7 +104,7 @@
       }
     },
     "damage": {
-      "enabled": true,
+      "enabled": false,
       "opacity": 1.0,
       "damaged": {
         "disabled": false,
@@ -337,7 +337,7 @@
       }
     },
     "heartbeat": {
-      "enabled": true,
+      "enabled": false,
       "opacity": 1.0,
       "useHealthPercentage": false,
       "maxHealth": 6,
