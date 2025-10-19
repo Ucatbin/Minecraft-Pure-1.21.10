@@ -59,7 +59,7 @@ narratorHotkey:true
 resourcePacks:["fabric"]
 incompatibleResourcePacks:[]
 lastServer:
-lang:en_us
+lang:zh_cn
 chatVisibility:0
 chatOpacity:1.0
 chatLineSpacing:0.0
@@ -170,7 +170,7 @@ key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
 key_lambdynlights.key.toggle_fps_dynamic_lighting:key.keyboard.unknown
 soundCategory_master:1.0
-soundCategory_music:0.2535211267605634
+soundCategory_music:0.15492957746478872
 soundCategory_record:1.0
 soundCategory_weather:0.8098591549295775
 soundCategory_block:1.0
@@ -187,4 +187,4 @@ modelPart_right_sleeve:true
 modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
 modelPart_hat:true
-fullscreenResolution:1920x1080@120:24
+fullscreenResolution:1920x1080@165:24

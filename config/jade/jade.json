@@ -16,6 +16,9 @@
     "enableAccessibilityPlugin": false
   },
   "plugin": {
+    "toms_trading_network": {
+      "vending_machine": true
+    },
     "minecraft": {
       "item_storage.show_name_amount": 5,
       "furnace": true,
@@ -131,7 +134,8 @@
     "usersHash": [
       1296852476,
       2014018001,
-      1900954404
+      1900954404,
+      -284422179
     ],
     "previewOverlay": true,
     "hintOverlayToggle": true,

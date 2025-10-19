@@ -14,6 +14,9 @@
     "enableAccessibilityPlugin": false
   },
   "plugin": {
+    "toms_trading_network": {
+      "vending_machine": true
+    },
     "minecraft": {
       "item_storage.show_name_amount": 5,
       "furnace": true,
